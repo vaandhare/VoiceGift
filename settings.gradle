@@ -1,0 +1,2 @@
+rootProject.name='VoiceGift'
+include ':app', 'OpenCV'
